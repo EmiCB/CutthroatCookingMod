@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+   
+    "pattern":
+    [
+        "II ",
+        "II ",
+        "  I"
+    ],
+   
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:iron_ingot"
+        }
+    },
+   
+    "result":
+    {
+        "item": "cutthroatcooking:frying_pan",
+        "count": 1
+    }
+}

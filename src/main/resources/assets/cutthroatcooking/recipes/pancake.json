@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shapeless",
+ 
+    "ingredients":
+    [
+ 
+    {
+      "item": "minecraft:sugar"
+    },
+    
+    {
+      "item": "minecraft:milk_bucket"
+    },
+    
+    {
+      "item": "minecraft:egg"
+    },
+ 
+    {
+      "item": "minecraft:wheat"
+    }
+   
+    ],
+ 
+    "result":
+    {
+        "item": "cutthroatcooking:pancake",
+        "count": 3
+    }
+}
