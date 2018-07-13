@@ -213,7 +213,6 @@ public class ItemFryingPan extends ItemBow implements IHasModel {
 	     */
 	    public EnumAction getItemUseAction(ItemStack stack)
 	    {
-	        //return EnumAction.BOW;
 	        return EnumAction.NONE;
 	    }
 

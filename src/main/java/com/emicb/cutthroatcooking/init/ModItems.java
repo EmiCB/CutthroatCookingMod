@@ -3,6 +3,7 @@ package com.emicb.cutthroatcooking.init;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.emicb.cutthroatcooking.items.ItemBase;
 import com.emicb.cutthroatcooking.items.ItemFryingPan;
 import com.emicb.cutthroatcooking.items.ItemPancake;
 
@@ -14,4 +15,5 @@ public class ModItems {
 	//-----Item Declarations-----
 	public static final Item PANCAKE = new ItemPancake("pancake", 4, 0.3f, false);
 	public static final Item FRYING_PAN = new ItemFryingPan("frying_pan");
+	public static final Item ROLLING_PIN = new ItemBase("rolling_pin");
 }
